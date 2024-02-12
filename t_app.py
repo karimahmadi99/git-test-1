@@ -16,3 +16,7 @@ print("hello")
 class Name:
     def __init__(self, name):
         self.name = name
+
+    def run_1(self):
+        log = self.name + " :"
+        return log
