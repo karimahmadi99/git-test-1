@@ -20,3 +20,5 @@ class Name:
     def run_1(self):
         log = self.name + " :"
         return log
+ff = Nmae(good')
+ff.run_1()
