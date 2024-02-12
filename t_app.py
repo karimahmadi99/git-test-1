@@ -20,3 +20,6 @@ class Name:
     def run_1(self):
         log = self.name + " :"
         return log
+    
+dar = Name('amir')
+dar.run_1()
