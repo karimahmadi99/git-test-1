@@ -23,3 +23,5 @@ class Name:
     
 dar = Name('amir')
 dar.run_1()
+ff = Name('good')
+ff.run_1()
